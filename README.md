@@ -1,2 +1,2 @@
 # hello
-Hi! This is my first repositor y
+Hi! This is my first repositorry
